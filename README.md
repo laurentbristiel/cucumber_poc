@@ -1,4 +1,4 @@
-from the root of the project, just launch cucumber and should execute the tests
+from the root of the project, just launch cucumber and it will execute the tests
 ```
 $ cucumber
 Feature: add money to become rich
