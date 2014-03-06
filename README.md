@@ -1,5 +1,6 @@
 from the root of the project, just launch cucumber and should execute the tests
 ```
+$ cucumber
 Feature: add money to become rich
 
   Scenario Outline: add a little bit of money to an account # features/addMoneyToAccount.feature:3
